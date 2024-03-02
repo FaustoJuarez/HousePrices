@@ -11,6 +11,9 @@ Welcome to the Washington House Prices Analysis project! In this project, we del
 
 ## Technologies Used
 - Python
+- Pandas
+- Seaborn
+- Matplotlib
 - scikit-learn
 - Tableau
 
@@ -27,6 +30,9 @@ Welcome to the Washington House Prices Analysis project! In this project, we del
 
 ## Contribution Guidelines
 Contributions are welcome! If you have ideas for improving the analysis or want to add new features, feel free to submit a pull request.
+
+## Link to Tableau Visualization
+https://public.tableau.com/app/profile/fausto.juarez.yelamos/viz/KingCountyHouseSales_17091304852900/KingCountyHouseSales?publish=yes
 
 ## Contact Information
 For any questions or inquiries, please contact [Your Name] at [your@email.com].
