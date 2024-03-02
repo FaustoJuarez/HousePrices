@@ -35,6 +35,6 @@ Contributions are welcome! If you have ideas for improving the analysis or want 
 https://public.tableau.com/app/profile/fausto.juarez.yelamos/viz/KingCountyHouseSales_17091304852900/KingCountyHouseSales?publish=yes
 
 ## Contact Information
-For any questions or inquiries, please contact [Your Name] at [your@email.com].
+For any questions or inquiries, please contact me at [faustojuarezyelamos@gmail.com].
 
 Let's unlock the secrets of Washington's real estate together! 🏠💼
